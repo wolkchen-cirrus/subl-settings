@@ -1,0 +1,12 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	"auto_complete": false,
+	"auto_complete_commit_on_tab": true,
+	"auto_match_enabled": true,
+	"bold_folder_labels": true,
+	"caret_style": "solid",
+	"detect_indentation": true,
+	"draw_indentat_guides": true,
+	
+}

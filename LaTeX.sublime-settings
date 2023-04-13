@@ -1,0 +1,36 @@
+// These settings override both User and Default settings for the LaTeX syntax
+{
+  "auto_complete_triggers":
+  [
+  {
+    "characters": ".",
+    "selector": "source.python - string - comment - constant.numeric"
+  },
+  {
+    "characters": "\\",
+    "selector": "text.tex.latex"
+  }
+  ],
+    "default_line_ending": "unix",
+    "ignored_packages":
+  [
+    "Vintage"
+  ],
+    "open_externally_patterns":
+  [
+    "*.jpg",
+    "*.jpeg",
+    "*.png",
+    "*.gif",
+    "*.zip",
+    "*.pdf"
+  ],
+  "rulers":
+  [
+    78
+  ],
+  "wrap_width": 78,
+  "tab_size": 4,
+  "translate_tabs_to_spaces": true,
+  "spell_check": true
+}

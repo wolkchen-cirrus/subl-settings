@@ -1,0 +1,19 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Dracula Color Scheme",
+		"Fold Comments",
+		"ImageMagick",
+  	"LaTeX Word Count",
+  	"LaTeX-cwl",
+  	"LaTeXTab",
+  	"LaTeXTools",
+  	"Package Control",
+  	"SideBarEnhancements",
+	],
+}
